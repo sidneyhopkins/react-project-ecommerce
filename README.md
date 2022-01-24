@@ -2,15 +2,15 @@
 
 This e-commerce shopping cart project showcases my React, JavaScript, and CSS experience. As of writing, the project is considered done. I used create-react-app to get started.
 
-**Where to start:**
+**If you want to look at the code, here's where I would start:**
 
-1. Parent page **Home (../pages/Home.jsx)**
+1. Home (../pages/Home.jsx);
 
-2. Its child **Navbar (../components/Navbar.jsx)**
+2. Navbar (../components/Navbar.jsx);
 
-3. Its grandchild **Cart (../components/Cart.jsx)**
+3. Cart (../components/Cart.jsx);
 
-4. Its great-grandchild **Item (../components/Item.jsx)**
+4. Item (../components/Item.jsx).
 
 ## Highlights
 
