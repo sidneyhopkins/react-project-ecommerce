@@ -1,47 +1,37 @@
-# React E-commerce & Shopping Cart Project
+# React E-commerce Shopping Cart
 
-This e-commerce shopping cart project showcases my React, JavaScript, and CSS experience. As of writing, the project is considered done. I used create-react-app to get started.
+#### By Sidney Hopkins
 
-**If you want to look at the code, here's where I would start:**
+#### Select a watercolor at the bottom of the page to add it to a collapsable shopping cart.
 
-1. Home (../pages/Home.jsx);
+## Technologies Used
 
-2. Navbar (../components/Navbar.jsx);
+HTML, CSS, JavaScript, React (Styled-Components, Material-UI)
 
-3. Cart (../components/Cart.jsx);
+## Description
 
-4. Item (../components/Item.jsx).
+This single-page website allows users to select a watercolor painting and add that item to a shopping cart. The shopping cart can be toggled open/close. The page itself is responsively designed and reflects the look and functionality of an e-commerce homepage, including an image slider at the top (link to static site below).
 
-## Highlights
+https://sidneyhopkins.github.io/react-project-ecommerce
 
-- Shopping Cart
+## How to use
 
-  - Open/Close to fixed position on right side
-  - Add/Remove items
-  - Badge displays updated number of items
-  - Price summary
+There are two ways to view the project.
 
-- Dynamic Image Slider
+A.
 
-- Fully Responsive
+Follow this link to the static site:
+https://sidneyhopkins.github.io/react-project-ecommerce
 
-- CSS-in-JS (styled-components)
-  - Material icons, badges
-  - CSS Transitions
-  - Media Queries
+B.
 
-## Project Goals
+- Clone this repository to your desktop
+- Navigate to the top level of the directory
+- Run **npm install** in the terminal
+- Run **npm start** in the terminal
 
-- Implement a minimum viable shopping cart using React
-- Create a responsive e-commerce page
-- Include Material icons
+## License
 
-Personal Goals
+If you have any questions, ideas, or concerns, feel free to contact me at the email listed on my GitHub profile.
 
-- Apply React knowledge and continue learning
-- Practice and apply JavaScript skills
-- Learn CSS-in-JS and practice CSS
-
-## Limitations
-
-There are many improvements I would've liked to make and functionality to add. I have chosen to move on to other projects so that I can continue to learn new things.
+MIT © 2022 Sidney Hopkins
