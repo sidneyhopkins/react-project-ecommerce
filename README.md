@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, React (Styled-Components, Material-UI)
 
 This single-page website allows users to select a watercolor painting and add that item to a shopping cart. The shopping cart can be toggled open/close. The page itself is responsively designed and reflects the look and functionality of an e-commerce homepage, including an image slider at the top.
 
-### [Link to Site](https://sidney-react-project-ecommerce.netlify.app)
+### [Link to Site](https://sidney-react-ecommerce.netlify.app)
 
 ## How to Use
 
