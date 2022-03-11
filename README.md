@@ -1,4 +1,4 @@
-# React E-commerce Shopping Cart
+# React Project E-commerce
 
 #### By Sidney Hopkins
 
@@ -10,20 +10,11 @@ HTML, CSS, JavaScript, React (Styled-Components, Material-UI)
 
 ## Description
 
-This single-page website allows users to select a watercolor painting and add that item to a shopping cart. The shopping cart can be toggled open/close. The page itself is responsively designed and reflects the look and functionality of an e-commerce homepage, including an image slider at the top (link to static site below).
+This single-page website allows users to select a watercolor painting and add that item to a shopping cart. The shopping cart can be toggled open/close. The page itself is responsively designed and reflects the look and functionality of an e-commerce homepage, including an image slider at the top.
 
-https://sidneyhopkins.github.io/react-project-ecommerce
+### [Link to Site](https://sidney-react-project-ecommerce.netlify.app)
 
-## How to use
-
-There are two ways to view the project.
-
-A.
-
-Follow this link to the static site:
-https://sidneyhopkins.github.io/react-project-ecommerce
-
-B.
+## How to Use
 
 - Clone this repository to your desktop
 - Navigate to the top level of the directory
